@@ -9,6 +9,7 @@
 - **Firebase dependencies updated:** All Firebase dependencies was updated to support Firebase core 3.0.0.
 - **Intervals changed to Duration type:** The inteval value was changed from int (sec) to Duration, allowing a better understanding of time reading the code.
 - **Documentation Updated:** Documentation updated to also include AndroidManifest instructions to recreate schedules when the device is restarted.
+"blank commit"
 ### Fixed
 - **MediaPlayer Album Art Resolution Fix:** Addressed an issue where album art was displaying at reduced resolution on Android 14 devices. Album artwork now renders clearly and crisply, improving the visual quality of the media player.
 ### Removals
